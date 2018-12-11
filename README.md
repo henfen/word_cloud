@@ -1,3 +1,6 @@
+A Fork from https://github.com/amueller/word_cloud by Henrique Rodrigues https://github.com/henfen/
+https://github.com/henfen/
+
 [![licence](http://img.shields.io/badge/licence-MIT-blue.svg?style=flat)](https://github.com/amueller/word_cloud/blob/master/LICENSE)
 [![DOI](https://zenodo.org/badge/21369/amueller/word_cloud.svg)](https://zenodo.org/badge/latestdoi/21369/amueller/word_cloud)
 
